@@ -1,0 +1,29 @@
+{
+  "name": "mongonode",
+  "version": "1.0.0",
+  "description": "Mongodb for Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mongonode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpunalkar/mongonode.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "nodejs"
+  ],
+  "author": "Ganesh Punalkar <ganesh.punalkar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpunalkar/mongonode/issues"
+  },
+  "homepage": "https://github.com/gpunalkar/mongonode#readme",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  }
+}
